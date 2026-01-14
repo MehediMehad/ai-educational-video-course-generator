@@ -1,0 +1,2 @@
+* postgres database setup
+* Setup NeonDB + Drizzle ORM  // learning score: https://youtu.be/BamV5jDeJeU?t=1366&si=5YTqQ509OvavVU_Q
